@@ -1,3 +1,9 @@
-baseurl = "http://yourSiteHere"
+baseurl = "http://duncombe.github.io/hugo_test"
 languageCode = "en-us"
-title = "my new hugo site"
+title = "IOOS Test Docs Site Using Hugo"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+[indexes]
+    category = "categories"
+
